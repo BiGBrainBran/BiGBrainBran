@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Bran / Brandon</h1>
+<h1 align="center">Hola, soy Bran / Brandon 🥸</h1>
 <h3 align="center">Me gusta patinar y programar, pero me gusta mas patinar la verdad...</h3>
 
-- 📫 How to reach me **jitteruwu@gmail.com**
+- 📫 Contactame en: **jitteruwu@gmail.com**
 
-- ⚡ Fun fact **Soy el programador skater**
+- ⚡ Dato curioso: **Soy el programador skater**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
