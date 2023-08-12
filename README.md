@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D42C&width=435&lines=Soy+Bran%2C+bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D42C&center=true&vCenter=true&width=435&lines=Soy+Bran%2C+bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hola, soy Bran / Brandon 🥸</h1>
 <h3 align="center">Me gusta patinar y programar, pero me gusta mas patinar la verdad...</h3>
